@@ -10,4 +10,4 @@ Step :
 2. run server
 `npm run start-dev`
 
-![Preview](Food Information Preview.png)
+![Preview](Preview.png)
