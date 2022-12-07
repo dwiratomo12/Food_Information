@@ -9,3 +9,5 @@ Step :
 `npm install`
 2. run server
 `npm run start-dev`
+
+![Food Information Preview](Food Information Preview.png)
